@@ -1,1 +1,1 @@
-![Alt text](/resources/AX1PIC.JPG.jpg)
+![Alt text](/resources/ArmRender.PNG)
