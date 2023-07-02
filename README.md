@@ -1,6 +1,6 @@
 # AX-1 Robotic Arm (Playing Pegs)
 
-![Alt text](/resources/ArmRender.PNG)
+![Alt text](/resources/AX1-Pegs.JPG)
 
 ## What is it?
 
