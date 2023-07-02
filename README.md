@@ -17,8 +17,8 @@ This project includes:
 
 Original design of the arm and board were printed on an Ender-3 Pro, but should work on any correctly set up 3d printer. The additional parts needed will be supplied in a seperate file within this repo, along with places to purchase online. The board originally used was an Arduino Uno, but any Arduino board should work with possible configuration changes (input/output of servos).
 
-A fully 3d printed open-source robotic arm driven by four cheap SG90 micro servos. The arm was designed as an introduction to robotics and applying graph theory mathematics to solve puzzles.
+The project uses the AX-1 robotic arm, which is an open source project designed using low-cost SG90 servos. The arm was specifically designed to keep the project cost low, and serve as a learning platform to introduce robotics and coding to people would like a great place to start.
 
 ## Using this design
 
-This design is free to use for non-profit and educational uses. If you would like to discuss other use cases, contact me '@gmail.com'.
+This design is free to use for non-profit and educational uses. If you would like to discuss other use cases, contact me '@gmail.com'. If you would like to contribute or add additional functionality to be included in this project, get in touch!
