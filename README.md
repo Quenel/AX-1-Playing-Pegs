@@ -2,6 +2,10 @@
 
 ![Alt text](/resources/AX1-Pegs.JPG)
 
+## Check out the video:
+
+[![Alt Text](https://img.youtube.com/vi/7oqbdOm2zTs/0.jpg)](https://www.youtube.com/watch?v=7oqbdOm2zTs)
+
 ## AX-1 Pegs Game
 
 This project adds functionality to the AX-1 robotic arm, and provides the extra 3d printable parts to get the arm solving puzzles.
