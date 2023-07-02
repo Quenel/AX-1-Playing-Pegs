@@ -2,10 +2,23 @@
 
 ![Alt text](/resources/ArmRender.PNG)
 
-## What is it?
+## AX-1 Pegs Game
+
+This project adds functionality to the AX-1 robotic arm, and provides the extra 3d printable parts to get the arm solving puzzles.
+This project includes:
+
+- STL files to 3d print the playing board base to mount the AX-1
+- STL files to 3d print 7 playing pieces
+- Python code tutorial with examples on how to move the arm as required
+- Python code to open a user interface window and solve a set game board configuration
+- Arduino code to upload to the arduino device
+
+## A little more on building the project. . .
+
+Original design of the arm and board were printed on an Ender-3 Pro, but should work on any correctly set up 3d printer. The additional parts needed will be supplied in a seperate file within this repo, along with places to purchase online. The board originally used was an Arduino Uno, but any Arduino board should work with possible configuration changes (input/output of servos).
 
 A fully 3d printed open-source robotic arm driven by four cheap SG90 micro servos. The arm was designed as an introduction to robotics and applying graph theory mathematics to solve puzzles.
 
-## Download and 3d print the required files
+## Using this design
 
-Download the supplied .STL files and 3d print in your favourite PLA fillament.
+This design is free to use for non-profit and educational uses. If you would like to discuss other use cases, contact me '@gmail.com'.
